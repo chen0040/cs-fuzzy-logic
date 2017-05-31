@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-fuzzy-logic", "cs-fuzzy-logic\cs-fuzzy-logic.csproj", "{40298AC3-A5FD-4FDD-BD1C-60962E22BEDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-fuzzy-logic-unit-test", "cs-fuzzy-logic-unit-test\cs-fuzzy-logic-unit-test.csproj", "{03FD464D-510A-4A80-949C-7C1B8774C8D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{40298AC3-A5FD-4FDD-BD1C-60962E22BEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40298AC3-A5FD-4FDD-BD1C-60962E22BEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40298AC3-A5FD-4FDD-BD1C-60962E22BEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03FD464D-510A-4A80-949C-7C1B8774C8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FD464D-510A-4A80-949C-7C1B8774C8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FD464D-510A-4A80-949C-7C1B8774C8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FD464D-510A-4A80-949C-7C1B8774C8D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
