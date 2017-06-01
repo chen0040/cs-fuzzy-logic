@@ -1,0 +1,2 @@
+dotnet pack cs-fuzzy-logic/cs-fuzzy-logic.csproj /p:PackageVersion=1.0.1 --configuration release --include-source --output ../build
+nuget push build/cs-fuzzy-logic.1.0.1.nupkg -Source https://www.nuget.org/api/v2/package
